@@ -9,7 +9,8 @@ Previo a la ejecución del proyecto se debe crear en el directorio raiz del mism
 NODE_PORT=8080
 NODE_ENV=local
 FIREBASE_PATH=../utils/proyectofinal-firebase-admin.json
-PERSISTENCIA=json```
+PERSISTENCIA=json
+```
 
 Los valores configurables en la variable de entorno `PERSISTENCIA` son:
 
